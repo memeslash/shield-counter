@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "shield-counter",
+    "description": "Spring Attack tracking made easy.",
+    "servers": ["https://raw.githubusercontent.com/beng-mods/shield-counter/master/"],
+    "supportUrl": ["https://discord.gg/dUNDDtw"],
+    "options": {
+        "niceName": "Shield Counter",
+        "guiName": "Shield Counter"
+    }
+}

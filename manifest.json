@@ -1,0 +1,14 @@
+{
+	"files": {
+		"README.md": "650d147f4f6d4833468f8a31053d991da794f4b658cdff7edd71f62d94e481ab",
+		"index.js": "70fd4d14f8d3363ddf9b8b563358c17e1b69f1e02b6d2113572420850140bf85",
+		"module.json": "1865db5baf7f405df5764271cb701cc9f6e86a7f6a72192297c40fa10a652eb0"
+	},
+	"defs": {
+		"C_PRESS_SKILL": 4,
+		"S_ACTION_STAGE": 9,
+		"S_BOSS_GAGE_INFO": 3,
+		"S_DUNGEON_EVENT_MESSAGE": 2,
+		"S_EACH_SKILL_RESULT": 14
+	}
+}
